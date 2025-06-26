@@ -1,0 +1,273 @@
+[33mcommit 18987183a222717460b504ea81d9c2f49db9c2e9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Fewroad <3142119670@qq.com>
+Date:   Thu Jun 26 10:15:07 2025 +0800
+
+    首次提交
+
+[33mcommit 064d0f0ebd72775afdb24b5c85714c43091f17c9[m
+Author: Davide Coccomini <davidecoccomini@gmail.com>
+Date:   Wed Jun 5 11:51:09 2024 +0200
+
+    Update README.md adding the published paper
+
+[33mcommit 2ba57c1c9d2719e0b287b379d4746833fc97f590[m
+Author: Davide Coccomini <davidecoccomini@gmail.com>
+Date:   Tue Oct 24 13:25:44 2023 +0200
+
+    Create README.md
+
+[33mcommit 334b086bf23f89ef2487b0d70ff3442582d0cde7[m
+Merge: 8fe57c3 5649919
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Tue Oct 24 09:51:22 2023 +0200
+
+    Update models
+
+[33mcommit 8fe57c32f92cf4ba1a3d0d897dc9a15778809ffe[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Tue Oct 24 09:49:06 2023 +0200
+
+    Update readme
+
+[33mcommit b9c395b5dc8b9a45c441f85f4d78de35bd8072cb[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Tue Oct 24 09:46:04 2023 +0200
+
+    Add code to count multi identity videos
+
+[33mcommit 564991907d7b884bf85e525fc60470807edbf412[m
+Author: Davide Coccomini <davidecoccomini@gmail.com>
+Date:   Mon Jun 26 11:16:46 2023 +0200
+
+    Update README.md
+
+[33mcommit 7b82eb7e2e504e261f5d9cb49d56d948559cd5a5[m
+Author: Davide Coccomini <davidecoccomini@gmail.com>
+Date:   Fri Jan 6 14:43:34 2023 +0100
+
+    Update environment.yml
+
+[33mcommit 40925c0298214ece430a27dd6d107d31c3c37387[m
+Author: Davide Coccomini <davidecoccomini@gmail.com>
+Date:   Fri Jan 6 12:36:50 2023 +0100
+
+    Add pre-trained models download
+
+[33mcommit 483a24839ac39afa1f9b58a36ba82c68be1558e5[m
+Author: Davide Coccomini <davidecoccomini@gmail.com>
+Date:   Wed Dec 7 11:10:31 2022 +0100
+
+    Update README.md
+
+[33mcommit 8e7e4efb0253f33e8a18fb140c1c7dddcf61d607[m
+Author: Davide Coccomini <davidecoccomini@gmail.com>
+Date:   Wed Dec 7 11:03:23 2022 +0100
+
+    Update README.md
+
+[33mcommit 889289e9bdf9d8bd7d45850c36743a6884075cd1[m
+Author: Davide Coccomini <davidecoccomini@gmail.com>
+Date:   Wed Dec 7 10:54:28 2022 +0100
+
+    Update README.md
+
+[33mcommit aed042e1c28171335b9c03b04ece042f31034801[m
+Author: Davide Coccomini <davidecoccomini@gmail.com>
+Date:   Wed Dec 7 10:42:29 2022 +0100
+
+    Update README.md
+
+[33mcommit 7f64ff41a3fa0b8d6292dc30de9bfd927fad2a4f[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Thu Nov 24 15:25:21 2022 +0100
+
+    Update
+
+[33mcommit 825c46620526672bd69827c5e643943e9c751436[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Thu Nov 24 15:22:39 2022 +0100
+
+    Update predict.py
+
+[33mcommit 139d3097305a24dea8322a171be3a3a6afa13853[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Sat Nov 12 16:11:20 2022 +0100
+
+    Fix loss calculation for slowfast
+
+[33mcommit ad15a69685f3a0fb56cfe95c1cf85a17bbc04f9e[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Sat Oct 22 17:58:35 2022 +0200
+
+    Add Slowfast test and multiple identity sorting approaches
+
+[33mcommit 8fc026e18f2a1e5e49808ed9462de9210493a5a8[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Mon Oct 17 23:41:22 2022 +0200
+
+    Add SlowFast training
+
+[33mcommit d20ec0bd46d0b7b3190e8c6499a33564b6fdb12a[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Sat Oct 15 19:10:32 2022 +0200
+
+    Remove debug print
+
+[33mcommit 4a60c2708b782eedc35f69c280845b5c474b3a3e[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Sat Oct 15 19:08:30 2022 +0200
+
+    Add multiple sort rules for identities
+
+[33mcommit e3b39d2b700e37a34aa6a1b14e5826dd32867310[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Sun Oct 9 16:54:35 2022 +0200
+
+    Update test.py
+
+[33mcommit 7bee58e73e6845249ed35d53da629d3593ef2fd0[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Sun Oct 9 15:47:32 2022 +0200
+
+    Update README.md
+
+[33mcommit 8252a684c2dad285f9eb730be94bcdc9efa263d9[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Wed Oct 5 15:34:27 2022 +0200
+
+    Update README.md
+
+[33mcommit 2a1772328d21c4cb89bc4da3c72bd91e40230e92[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Wed Oct 5 15:29:14 2022 +0200
+
+    Update README.md
+
+[33mcommit 116ac23ecb5498b2d94d76bc56d06c581bdcafe5[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Wed Oct 5 15:24:36 2022 +0200
+
+    Fix mask generation and attention calculation when features disabled
+
+[33mcommit 9a2259c81bf4c9b6db9cc53c29d31076ef7f18ec[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Wed Oct 5 15:23:56 2022 +0200
+
+    Update README.md
+
+[33mcommit 018dcabcee877c411e151ab9cafde6feb1a4551c[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Mon Oct 3 15:39:24 2022 +0200
+
+    Update README.md
+
+[33mcommit 1953718120f905a4aef858a512f8d0073fa32c46[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Mon Oct 3 14:58:10 2022 +0200
+
+    Update README.md
+
+[33mcommit c1fef70227c2fd90f2c3a5fb970c19e5ecbcd750[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Mon Oct 3 14:57:07 2022 +0200
+
+    Make identity attention optionable
+
+[33mcommit 0f1675116a64683ea43360db2efec0f70dc089ec[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Sun Oct 2 12:55:25 2022 +0200
+
+    Update README.md
+
+[33mcommit 4ddb6e54f42029c44f07ba4d7fe8d3cb3f71a2ef[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Thu Sep 29 15:44:32 2022 +0200
+
+    Add more per-class results
+
+[33mcommit 7e45e84b2a569c90d5d7366227cb3c9d607131c4[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Thu Sep 29 15:37:30 2022 +0200
+
+    Fix typo in README.md
+
+[33mcommit 51f98013cb5daad7eb8701fa55d2dde290b68cb8[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Thu Sep 29 15:34:56 2022 +0200
+
+    Update README.md with new results
+
+[33mcommit 6a8aae0d0c8c605e45fc135c3c274b039d33759f[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Thu Sep 29 15:34:43 2022 +0200
+
+    Made temporal coherent positional embedding optionable
+
+[33mcommit c2323df3585b98fd9b836b218775fdcafa7f280d[m
+Author: davidecoccomini <davidecoccomini@gmail.com>
+Date:   Mon Sep 26 10:13:55 2022 +0200
+
+    Fix multi-gpu processing and add XceptionNet as feature extractor option
+
+[33mcommit 657f7dcb8d9c0f464656ac32fbe6923f3f78b400[m
+Author: davide-coccomini <davidecoccomini@gmail.com>
+Date:   Thu Sep 22 08:49:54 2022 +0000
+
+    Add correction for mp4 extension in DFDC dataset
+
+[33mcommit 914090f162854b4c123da8ca76764e39599613e6[m
+Author: davide-coccomini <davidecoccomini@gmail.com>
+Date:   Fri Sep 16 19:15:44 2022 +0300
+
+    Fix check on deepfakes methods
+
+[33mcommit f1ead6b256acccdde164ecd50037dee9a0c101e9[m
+Author: davide-coccomini <davidecoccomini@gmail.com>
+Date:   Fri Sep 16 19:13:52 2022 +0300
+
+    Add face saving
+
+[33mcommit 5567189c9ce928faf7dffb788680b3ff1eaef010[m
+Author: davide-coccomini <davidecoccomini@gmail.com>
+Date:   Fri Sep 16 19:13:23 2022 +0300
+
+    Improve indentation
+
+[33mcommit 16fabc74411d9d59472d6d4bbee6aeedf694bdfc[m
+Author: davide-coccomini <davidecoccomini@gmail.com>
+Date:   Fri Sep 16 19:10:57 2022 +0300
+
+    Fix batch size
+
+[33mcommit 65ad657dbbe823df0df58d612aad519eeed6c98d[m
+Author: davide-coccomini <davidecoccomini@gmail.com>
+Date:   Mon Sep 12 13:38:19 2022 +0300
+
+    Update README.md
+
+[33mcommit 6ef9c03269f1bb6457ae88273bc361504e9114fd[m
+Author: davide-coccomini <davidecoccomini@gmail.com>
+Date:   Mon Sep 12 13:29:57 2022 +0300
+
+    Update README.md
+
+[33mcommit 021bee20da0cdc0f99a28f80e63a2678a6326c28[m
+Author: davide-coccomini <davidecoccomini@gmail.com>
+Date:   Mon Sep 12 13:27:26 2022 +0300
+
+    Update README.md
+
+[33mcommit de35ef49e0530541d2d637a306cb4c376b7bc43b[m
+Author: davide-coccomini <davidecoccomini@gmail.com>
+Date:   Mon Sep 12 13:18:10 2022 +0300
+
+    Update README.md
+
+[33mcommit db0dd5b6b10d564336a68fcc4969ac312c182442[m
+Author: davide-coccomini <davidecoccomini@gmail.com>
+Date:   Mon Sep 12 11:21:22 2022 +0300
+
+    Update README.md
+
+[33mcommit f6d2df08aa14e9b229a33d4d7dbaf39a868b20e8[m
+Author: davide-coccomini <davidecoccom
